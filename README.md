@@ -2,7 +2,7 @@
 sound as senderzi
 Unfinished stl/project for ender 3 conversition to Corexy
 
-maintain and resuse everthing from ender 3 to corexy conversion by add few part.
+maintain and resuse everthing from ender 3 to corexy conversion by add few part. THis should should cost almost half of ender 3 price mod. (low budget mod)
 
 stl remix from a few design from thingiverse
 
